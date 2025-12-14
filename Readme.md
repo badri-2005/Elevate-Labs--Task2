@@ -100,6 +100,5 @@ This project demonstrates how effective data visualization and storytelling can 
 ---
 
 ## Author
-**Badri Narayanan**  
+**Badri Narayanan B R**  
 Computer Science & Engineering  
-Data Visualization & Analytics
